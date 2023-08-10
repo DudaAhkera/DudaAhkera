@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DudaAhkera
-- 👀 I’m interested in always know people and learn
-- 🌱 I’m currently learning HTML, PYTHON, JAVA
+- 👀 I’m interested in always knowing people and learning, learning, learning...
+- 🌱 I’m currently learning JAVASCRIPT, PYTHON, JAVA
 - 💞️ I’m looking to collaborate on NOTHING YET
 - 📫 How to reach me ...<https://www.linkedin.com/in/zulenice-rocha-84535536/>
 
